@@ -50,4 +50,4 @@ Guilherme Palhari - RM557073
 
 # link do projeto
 
-https://www.tinkercad.com/things/7j7c0p36oij-gs?sharecode=LU1vXijyEEb3li0MTat1-UxuX2y0S6d7Opc3JRaH6yo
+https://www.tinkercad.com/things/iD4IyoS8zKg-gs-edge?sharecode=Yy0iqW5Icn9cAgTU3o7pLEOaZx9164P4JVCA4nWq_aM
